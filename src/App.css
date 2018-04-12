@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.width-150{
+  width:150px;
+}
+
+label{
+  width:80px;
+  text-align: left;
+  display:inline-block;
+}
+
+.bandOption{
+  padding:5px
+}
+
+
